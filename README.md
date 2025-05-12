@@ -140,7 +140,8 @@ int main() {
 
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/e721c148-c452-407e-8a55-a01592d66f02)
+
+![Screenshot 2025-05-12 135146](https://github.com/user-attachments/assets/dc3da3cd-18b2-4380-ab2c-1e0f3172e179)
 
 
 # RESULT:
